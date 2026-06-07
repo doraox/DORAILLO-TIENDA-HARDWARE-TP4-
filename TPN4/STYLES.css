@@ -1,0 +1,59 @@
+.navbar-expand-lg{
+    background-color: grey;
+}
+
+.container-fluid{
+    background-color: #0B0F19;
+}
+
+a{
+    color: white !important;
+}
+
+
+body{
+    background-image: url(img/Gemini_Generated_Image_zd96oqzd96oqzd96.png);
+}
+
+.card{
+    background-color: #121824;
+}
+
+.card-title{
+    color: white;
+}
+
+header{
+    height: 300px;
+    object-fit: cover;
+    margin:auto
+}
+
+
+.info{
+    background-color: #2D323F;
+    color: white
+    
+}
+
+.lead{
+    color:white
+}
+
+h1{
+    color: rgb(137, 128, 128)
+}
+
+.precio{
+    color: white
+}
+
+.carrito{
+    background-color: #243447;
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.modelito{
+    color: white;
+}
