@@ -58,6 +58,9 @@ h1{
     color: white;
 }
 
+.son {
+    text-align: center;
+}
 
 .son:hover{
     border: 3px solid transparent;
